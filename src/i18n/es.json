@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "home": {
+      "title": "Sarria Wealth — Análisis financiero independiente",
+      "description": "Claridad en tus números para tomar mejores decisiones. Diagnóstico y reconstrucción financiera para personas, autónomos y empresas."
+    },
+    "servicios": {
+      "title": "Servicios — Sarria Wealth",
+      "description": "Diagnóstico financiero y reconstrucción contable para personas y empresas. Informes ejecutivos y sesiones de análisis."
+    },
+    "herramientas": {
+      "title": "Modelos financieros — Sarria Wealth",
+      "description": "Plantillas de balance, estado de resultados y cash flow para estructurar y analizar información financiera."
+    },
+    "sobreMi": {
+      "title": "Sobre mí — Sarria Wealth",
+      "description": "Agustín Quiroga. Análisis financiero independiente con experiencia en banca internacional y finanzas corporativas."
+    },
+    "contacto": {
+      "title": "Contacto — Sarria Wealth",
+      "description": "Agenda una conversación inicial de 15 minutos. Sin compromiso."
+    },
+    "insights": {
+      "title": "Insights — Sarria Wealth",
+      "description": "Análisis y artículos sobre finanzas para personas y empresas. Próximamente."
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "servicios": "Servicios",
+    "herramientas": "Herramientas",
+    "sobreMi": "Sobre mí",
+    "contacto": "Contacto",
+    "cta": "Agendar conversación",
+    "langToggle": "EN"
+  },
+  "footer": {
+    "tagline": "Claridad en tus números. Confianza en tus decisiones.",
+    "disclaimer": "No es asesoramiento de inversión. Sarria Wealth no custodia ni mueve fondos. No se comercializan productos financieros. Las plantillas y análisis son de carácter informativo y educativo.",
+    "copyright": "© 2025 Sarria Wealth. Todos los derechos reservados."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Análisis financiero independiente",
+      "h1": "Análisis financiero independiente",
+      "subhead": "Claridad en tus números para tomar mejores decisiones — para personas, autónomos y empresas.",
+      "cta": "Agendar conversación",
+      "ctaSecondary": "Ver servicios",
+      "ctaNote": "Conversación inicial · 15 minutos · Sin compromiso",
+      "body": "Sarria Wealth es una práctica independiente de análisis financiero dedicada a aportar estructura, visibilidad y criterio a información financiera dispersa."
+    },
+    "video": {
+      "title": "Qué hago y cómo trabajo",
+      "caption": "Video (60–90s) — presentación de Agustín",
+      "transcript": "\"En Sarria Wealth trabajo con personas y empresas que tienen la información, pero no la claridad. Mi trabajo es estructurar esa información, identificar lo que realmente importa y convertirlo en un análisis accionable.\""
+    },
+    "problems": {
+      "title": "Problemas típicos que resolvemos",
+      "items": [
+        {
+          "title": "Confusión entre caja y rentabilidad",
+          "body": "Facturación y movimiento, pero poca claridad sobre margen real y destino del dinero."
+        },
+        {
+          "title": "Estado de resultados mal estructurado",
+          "body": "Contabilidad preparada para Hacienda, no para gestión: márgenes, costes y punto de equilibrio poco claros."
+        },
+        {
+          "title": "Desorden en deuda y financiación",
+          "body": "Préstamos, pólizas o leasing sin visión de deuda neta, coste financiero y capacidad de repago."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Cómo trabajo",
+      "steps": [
+        { "num": "01", "title": "Conversación inicial", "body": "15 minutos. Entiendo tu situación y te explico qué podría hacer." },
+        { "num": "02", "title": "Recopilación y orden", "body": "Solicito la información necesaria y la estructuro con criterio analítico." },
+        { "num": "03", "title": "Modelo + reporting", "body": "Construyo el análisis: balance, EERR de gestión, cash flow, ratios clave." },
+        { "num": "04", "title": "Sesión de análisis", "body": "Presento los hallazgos y definimos los próximos pasos concretos." }
+      ]
+    },
+    "services": {
+      "title": "Servicios",
+      "a": {
+        "title": "Diagnóstico financiero",
+        "items": [
+          "Revisión de balance y EERR",
+          "Análisis de márgenes y estructura de costes",
+          "Revisión de deuda y financiación",
+          "Ratios clave y hallazgos",
+          "Informe ejecutivo + llamada explicativa"
+        ],
+        "cta": "Ver detalle"
+      },
+      "b": {
+        "title": "Reconstrucción financiera",
+        "items": [
+          "Reconstrucción de EERR para gestión",
+          "Separación costes fijos/variables",
+          "Punto de equilibrio y rentabilidad real",
+          "Normalización y estructura de reporting",
+          "Informe estratégico + 2 sesiones"
+        ],
+        "cta": "Ver detalle"
+      }
+    },
+    "demo": {
+      "title": "Ejemplos (DEMO)",
+      "tabs": [
+        { "id": "dashboard", "label": "Dashboard", "caption": "Vista ejecutiva de métricas financieras clave." },
+        { "id": "eerr", "label": "EERR de gestión", "caption": "Estado de resultados estructurado para decisión, no para Hacienda." },
+        { "id": "cashflow", "label": "Cash flow", "caption": "Flujo de caja operativo, de inversión y financiero." }
+      ]
+    },
+    "tools": {
+      "title": "Modelos financieros",
+      "body": "Un conjunto reducido de plantillas utilizadas para estructurar y analizar información financiera con claridad.",
+      "items": ["Plantilla de Balance", "Plantilla de Estado de Resultados (gestión)", "Modelo de Cash Flow"],
+      "cta": "Ver herramientas"
+    },
+    "about": {
+      "title": "Sobre Sarria Wealth",
+      "body": "Fundada por Agustín Quiroga. Experiencia en banca internacional, análisis e informes financieros. En la actualidad, trabaja en el área de finanzas de GVC Gaesco apoyando reporting, planificación y proyectos de automatización del ciclo de reporting.",
+      "cta": "Conocer más"
+    },
+    "finalCta": {
+      "title": "Entiende realmente tus números",
+      "body": "Agenda una conversación inicial y vemos si puedo ayudarte a ordenar, analizar y tomar decisiones con más claridad.",
+      "cta": "Agendar conversación"
+    }
+  },
+  "servicios": {
+    "hero": {
+      "eyebrow": "Servicios",
+      "h1": "Análisis riguroso. Resultados claros.",
+      "body": "Dos servicios diseñados para aportar estructura y visibilidad a situaciones financieras complejas o dispersas."
+    },
+    "a": {
+      "title": "Diagnóstico financiero",
+      "description": "Una revisión estructurada de la situación financiera actual. Ideal para quien sabe que algo no cuadra, pero no tiene claridad sobre dónde está el problema.",
+      "includes": "Qué incluye",
+      "items": [
+        "Revisión de balance general y estructura patrimonial",
+        "Análisis de cuenta de resultados y márgenes",
+        "Evaluación de la estructura de costes",
+        "Revisión de deuda, financiación y coste financiero",
+        "Ratios clave: liquidez, solvencia, rentabilidad",
+        "Identificación de puntos críticos y hallazgos",
+        "Informe ejecutivo escrito",
+        "Llamada de presentación de resultados (60 min)"
+      ],
+      "deliverables": "Entregables",
+      "deliverablesList": ["Informe ejecutivo en PDF", "Resumen de hallazgos y recomendaciones", "Sesión de presentación incluida"],
+      "duration": "Duración típica",
+      "durationValue": "5–10 días hábiles desde recepción de información",
+      "price": "desde 900€",
+      "cta": "Agendar conversación"
+    },
+    "b": {
+      "title": "Reconstrucción financiera",
+      "description": "Reconstrucción completa del estado de resultados orientado a gestión. Para empresas que trabajan con contabilidad fiscal y necesitan visibilidad real sobre márgenes, costes y rentabilidad.",
+      "includes": "Qué incluye",
+      "items": [
+        "Reconstrucción de EERR para gestión (no fiscal)",
+        "Separación y clasificación de costes fijos y variables",
+        "Cálculo de punto de equilibrio operativo",
+        "Rentabilidad real por línea o segmento (si aplica)",
+        "Normalización de partidas y estructura de reporting",
+        "Modelo de cash flow operativo",
+        "Informe estratégico escrito",
+        "2 sesiones de análisis y seguimiento"
+      ],
+      "deliverables": "Entregables",
+      "deliverablesList": ["Modelo financiero en Excel/Google Sheets", "Informe estratégico en PDF", "2 sesiones de análisis incluidas"],
+      "duration": "Duración típica",
+      "durationValue": "10–20 días hábiles desde recepción de información",
+      "price": "desde 1.500€",
+      "cta": "Agendar conversación"
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "items": [
+        {
+          "q": "¿Trabajas con personas y empresas?",
+          "a": "Sí. Trabajo con autónomos, pequeñas y medianas empresas, y personas con situaciones financieras personales complejas."
+        },
+        {
+          "q": "¿Esto es asesoramiento de inversión?",
+          "a": "No. Sarria Wealth no ofrece asesoramiento de inversión, no custodia fondos ni comercializa productos financieros. El trabajo es de análisis, estructura y reporting."
+        },
+        {
+          "q": "¿Qué necesito para empezar?",
+          "a": "Tres cosas: estados financieros de los últimos 1–2 ejercicios (balance y cuenta de resultados), extractos bancarios recientes, y 15 minutos para una conversación inicial."
+        },
+        {
+          "q": "¿Cuánto tarda un proyecto?",
+          "a": "Depende de la complejidad y la disponibilidad de información. Un diagnóstico típico tarda entre 5 y 10 días hábiles. Una reconstrucción completa puede requerir 2–4 semanas."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Quieres saber si puedo ayudarte?",
+      "body": "Agenda una conversación de 15 minutos. Sin compromiso.",
+      "btn": "Agendar conversación"
+    }
+  },
+  "herramientas": {
+    "hero": {
+      "eyebrow": "Herramientas",
+      "h1": "Modelos financieros",
+      "body": "Un conjunto reducido de plantillas para estructurar y analizar información financiera con claridad. Descarga gratuita para uso personal y profesional."
+    },
+    "disclaimer": "Estas plantillas son de carácter educativo. No constituyen asesoramiento financiero, fiscal ni de inversión.",
+    "items": [
+      {
+        "id": "balance",
+        "title": "Plantilla de Balance",
+        "description": "Estructura clara de activos, pasivos y patrimonio neto. Lista para introducir datos y obtener ratios de liquidez y solvencia automáticamente.",
+        "tags": ["Balance", "Ratios", "Excel"]
+      },
+      {
+        "id": "eerr",
+        "title": "Estado de Resultados (gestión)",
+        "description": "EERR orientado a la gestión con separación de costes fijos y variables, margen de contribución y punto de equilibrio.",
+        "tags": ["EERR", "Márgenes", "Excel"]
+      },
+      {
+        "id": "cashflow",
+        "title": "Modelo de Cash Flow",
+        "description": "Flujo de caja operativo, de inversión y financiero. Proyección trimestral y annual con visualización de posición de caja.",
+        "tags": ["Cash Flow", "Proyecciones", "Excel"]
+      }
+    ],
+    "downloadBtn": "Descargar plantilla",
+    "modal": {
+      "title": "Descarga gratuita",
+      "body": "Introduce tu nombre y correo para recibir la plantilla.",
+      "namePlaceholder": "Tu nombre",
+      "emailPlaceholder": "Tu correo electrónico",
+      "submit": "Descargar",
+      "success": "¡Listo! Haz clic en el enlace para descargar.",
+      "downloadLink": "Descargar ahora →",
+      "cancel": "Cancelar"
+    }
+  },
+  "sobreMi": {
+    "hero": {
+      "eyebrow": "Sobre mí",
+      "h1": "Agustín Quiroga",
+      "role": "Analista financiero independiente"
+    },
+    "bio": {
+      "title": "Trayectoria",
+      "p1": "Formación en finanzas con experiencia en banca internacional y análisis financiero. He trabajado en entornos de alta exigencia analítica, donde la precisión y la claridad en la información son no negociables.",
+      "p2": "Actualmente trabajo en el área de finanzas de GVC Gaesco, apoyando proyectos de reporting, planificación financiera y automatización del ciclo de reporting. Este contexto informa directamente el enfoque de Sarria Wealth: rigor analítico aplicado a situaciones reales.",
+      "p3": "Sarria Wealth nace de la convicción de que muchas personas y empresas tienen la información necesaria para tomar mejores decisiones, pero carecen de la estructura y el criterio para interpretarla."
+    },
+    "principles": {
+      "title": "Principios de trabajo",
+      "items": [
+        {
+          "title": "Rigor y estructura",
+          "body": "El análisis financiero sin metodología produce ruido. Cada proyecto sigue un marco claro, con jerarquía de información y criterio analítico."
+        },
+        {
+          "title": "Discreción",
+          "body": "La información financiera es sensible. Se trabaja con total confidencialidad. No se comparten datos de clientes bajo ninguna circunstancia."
+        },
+        {
+          "title": "Independencia",
+          "body": "Sin conflictos de interés. Sin productos que vender. El análisis sirve únicamente al cliente."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Tiene sentido trabajar juntos?",
+      "body": "Agenda una conversación inicial de 15 minutos.",
+      "btn": "Agendar conversación"
+    }
+  },
+  "contacto": {
+    "hero": {
+      "eyebrow": "Contacto",
+      "h1": "Agendar conversación",
+      "body": "Una conversación inicial de 15 minutos. Te cuento cómo trabajo y vemos si tiene sentido avanzar. Sin compromiso."
+    },
+    "whatToExpect": {
+      "title": "Qué ocurre en la llamada",
+      "items": [
+        "Me cuentas brevemente tu situación",
+        "Te explico qué podría hacer y cómo",
+        "Si tiene sentido, acordamos los próximos pasos"
+      ]
+    },
+    "calendly": {
+      "title": "Selecciona un horario",
+      "btn": "Abrir calendario",
+      "note": "Se abre Calendly en una ventana nueva."
+    },
+    "form": {
+      "title": "Cuéntame algo antes (opcional)",
+      "q1Label": "¿Eres persona o empresa?",
+      "q1Options": ["Persona / autónomo", "Empresa (SME)", "Otro"],
+      "q2Label": "¿Qué quieres resolver?",
+      "q2Placeholder": "Caja, márgenes, deuda, orden general…",
+      "q3Label": "Nivel de urgencia",
+      "q3Options": ["Explorando opciones", "En los próximos 30 días", "Urgente"],
+      "submit": "Enviar y agendar"
+    },
+    "email": {
+      "label": "O escríbeme directamente",
+      "value": "contacto@sarriawealth.com"
+    }
+  },
+  "insights": {
+    "hero": {
+      "eyebrow": "Insights",
+      "h1": "Próximamente",
+      "body": "Análisis, guías y notas sobre finanzas para personas y empresas. En preparación.",
+      "cta": "Volver al inicio"
+    }
+  }
+}

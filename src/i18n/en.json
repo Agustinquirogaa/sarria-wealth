@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "home": {
+      "title": "Sarria Wealth — Independent Financial Analysis",
+      "description": "Clarity in your numbers to make better decisions. Financial diagnostics and reporting for individuals, freelancers, and businesses."
+    },
+    "servicios": {
+      "title": "Services — Sarria Wealth",
+      "description": "Financial diagnostics and P&L reconstruction for individuals and businesses. Executive reports and analysis sessions."
+    },
+    "herramientas": {
+      "title": "Financial Models — Sarria Wealth",
+      "description": "Balance sheet, income statement, and cash flow templates to structure and analyse financial information."
+    },
+    "sobreMi": {
+      "title": "About — Sarria Wealth",
+      "description": "Agustín Quiroga. Independent financial analysis with experience in international banking and corporate finance."
+    },
+    "contacto": {
+      "title": "Contact — Sarria Wealth",
+      "description": "Schedule a 15-minute introductory call. No commitment."
+    },
+    "insights": {
+      "title": "Insights — Sarria Wealth",
+      "description": "Analysis and articles on finance for individuals and businesses. Coming soon."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "servicios": "Services",
+    "herramientas": "Tools",
+    "sobreMi": "About",
+    "contacto": "Contact",
+    "cta": "Book a call",
+    "langToggle": "ES"
+  },
+  "footer": {
+    "tagline": "Clarity in your numbers. Confidence in your decisions.",
+    "disclaimer": "Not investment advice. Sarria Wealth does not hold or move funds. No financial products are sold. Templates and analysis are for informational and educational purposes only.",
+    "copyright": "© 2025 Sarria Wealth. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Independent financial analysis",
+      "h1": "Independent financial analysis",
+      "subhead": "Clarity in your numbers to make better decisions — for individuals, freelancers, and businesses.",
+      "cta": "Book a call",
+      "ctaSecondary": "View services",
+      "ctaNote": "Introductory call · 15 minutes · No commitment",
+      "body": "Sarria Wealth is an independent financial analysis practice dedicated to bringing structure, visibility, and rigour to dispersed financial information."
+    },
+    "video": {
+      "title": "What I do and how I work",
+      "caption": "Video (60–90s) — Agustín's introduction",
+      "transcript": "\"At Sarria Wealth I work with individuals and businesses who have the data, but lack the clarity. My work is to structure that information, identify what truly matters, and turn it into actionable analysis.\""
+    },
+    "problems": {
+      "title": "Common problems we solve",
+      "items": [
+        {
+          "title": "Confusing cash with profitability",
+          "body": "Revenue flowing in and out, yet little clarity on true margins or where the money actually goes."
+        },
+        {
+          "title": "Poorly structured income statement",
+          "body": "Accounting prepared for the tax authority, not for management: margins, costs, and break-even left unclear."
+        },
+        {
+          "title": "Disorganised debt and financing",
+          "body": "Loans, credit lines, or leasing without a clear view of net debt, financing costs, and repayment capacity."
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How I work",
+      "steps": [
+        { "num": "01", "title": "Introductory call", "body": "15 minutes. I understand your situation and explain what I could do." },
+        { "num": "02", "title": "Information gathering", "body": "I collect the required data and organise it with analytical rigour." },
+        { "num": "03", "title": "Model + reporting", "body": "I build the analysis: balance sheet, management P&L, cash flow, key ratios." },
+        { "num": "04", "title": "Analysis session", "body": "I present findings and we define concrete next steps together." }
+      ]
+    },
+    "services": {
+      "title": "Services",
+      "a": {
+        "title": "Financial Diagnostic",
+        "items": [
+          "Balance sheet and P&L review",
+          "Margin and cost structure analysis",
+          "Debt and financing review",
+          "Key ratios and findings",
+          "Executive report + explanatory call"
+        ],
+        "cta": "View details"
+      },
+      "b": {
+        "title": "Financial Reconstruction",
+        "items": [
+          "Management P&L reconstruction",
+          "Fixed/variable cost separation",
+          "Break-even and true profitability",
+          "Reporting normalisation and structure",
+          "Strategic report + 2 sessions"
+        ],
+        "cta": "View details"
+      }
+    },
+    "demo": {
+      "title": "Examples (DEMO)",
+      "tabs": [
+        { "id": "dashboard", "label": "Dashboard", "caption": "Executive view of key financial metrics." },
+        { "id": "eerr", "label": "Management P&L", "caption": "Income statement structured for decisions, not for tax purposes." },
+        { "id": "cashflow", "label": "Cash flow", "caption": "Operating, investing, and financing cash flows." }
+      ]
+    },
+    "tools": {
+      "title": "Financial models",
+      "body": "A focused set of templates to structure and analyse financial information with clarity.",
+      "items": ["Balance Sheet Template", "Management Income Statement", "Cash Flow Model"],
+      "cta": "View tools"
+    },
+    "about": {
+      "title": "About Sarria Wealth",
+      "body": "Founded by Agustín Quiroga. Background in international banking, financial analysis, and reporting. Currently working in the finance department at GVC Gaesco, supporting reporting, planning, and reporting automation projects.",
+      "cta": "Learn more"
+    },
+    "finalCta": {
+      "title": "Understand your numbers — really",
+      "body": "Book an introductory call and let's see whether I can help you organise, analyse, and decide with greater clarity.",
+      "cta": "Book a call"
+    }
+  },
+  "servicios": {
+    "hero": {
+      "eyebrow": "Services",
+      "h1": "Rigorous analysis. Clear results.",
+      "body": "Two services designed to bring structure and visibility to complex or dispersed financial situations."
+    },
+    "a": {
+      "title": "Financial Diagnostic",
+      "description": "A structured review of the current financial situation. Ideal for those who sense something is off, but lack the clarity to identify where the problem lies.",
+      "includes": "What's included",
+      "items": [
+        "Balance sheet and net worth structure review",
+        "Income statement and margin analysis",
+        "Cost structure evaluation",
+        "Debt, financing, and financial cost review",
+        "Key ratios: liquidity, solvency, profitability",
+        "Identification of critical points and findings",
+        "Written executive report",
+        "Results presentation call (60 min)"
+      ],
+      "deliverables": "Deliverables",
+      "deliverablesList": ["Executive report in PDF", "Findings and recommendations summary", "Included presentation session"],
+      "duration": "Typical duration",
+      "durationValue": "5–10 business days from receipt of information",
+      "price": "from €900",
+      "cta": "Book a call"
+    },
+    "b": {
+      "title": "Financial Reconstruction",
+      "description": "Full reconstruction of the management income statement. For businesses working with tax-driven accounting that need real visibility on margins, costs, and profitability.",
+      "includes": "What's included",
+      "items": [
+        "Management P&L reconstruction (non-fiscal)",
+        "Fixed and variable cost separation and classification",
+        "Operating break-even calculation",
+        "Real profitability by line or segment (if applicable)",
+        "Line-item normalisation and reporting structure",
+        "Operating cash flow model",
+        "Written strategic report",
+        "2 analysis and follow-up sessions"
+      ],
+      "deliverables": "Deliverables",
+      "deliverablesList": ["Financial model in Excel/Google Sheets", "Strategic report in PDF", "2 included analysis sessions"],
+      "duration": "Typical duration",
+      "durationValue": "10–20 business days from receipt of information",
+      "price": "from €1,500",
+      "cta": "Book a call"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Do you work with individuals and businesses?",
+          "a": "Yes. I work with freelancers, small and medium-sized businesses, and individuals with complex personal financial situations."
+        },
+        {
+          "q": "Is this investment advice?",
+          "a": "No. Sarria Wealth does not offer investment advice, does not hold funds, and does not sell financial products. The work is analysis, structure, and reporting."
+        },
+        {
+          "q": "What do I need to get started?",
+          "a": "Three things: financial statements from the last 1–2 years (balance sheet and income statement), recent bank statements, and 15 minutes for an introductory conversation."
+        },
+        {
+          "q": "How long does a project take?",
+          "a": "It depends on complexity and the availability of information. A typical diagnostic takes 5–10 business days. A full reconstruction may require 2–4 weeks."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Want to find out if I can help?",
+      "body": "Book a 15-minute conversation. No commitment.",
+      "btn": "Book a call"
+    }
+  },
+  "herramientas": {
+    "hero": {
+      "eyebrow": "Tools",
+      "h1": "Financial models",
+      "body": "A focused set of templates to structure and analyse financial information with clarity. Free to download for personal and professional use."
+    },
+    "disclaimer": "These templates are for educational purposes. They do not constitute financial, tax, or investment advice.",
+    "items": [
+      {
+        "id": "balance",
+        "title": "Balance Sheet Template",
+        "description": "Clear structure of assets, liabilities, and equity. Ready to input data and automatically compute liquidity and solvency ratios.",
+        "tags": ["Balance Sheet", "Ratios", "Excel"]
+      },
+      {
+        "id": "eerr",
+        "title": "Management Income Statement",
+        "description": "P&L structured for management, with fixed/variable cost separation, contribution margin, and break-even.",
+        "tags": ["P&L", "Margins", "Excel"]
+      },
+      {
+        "id": "cashflow",
+        "title": "Cash Flow Model",
+        "description": "Operating, investing, and financing cash flows. Quarterly and annual projections with cash position visualisation.",
+        "tags": ["Cash Flow", "Projections", "Excel"]
+      }
+    ],
+    "downloadBtn": "Download template",
+    "modal": {
+      "title": "Free download",
+      "body": "Enter your name and email to receive the template.",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "Your email address",
+      "submit": "Download",
+      "success": "Done! Click the link below to download.",
+      "downloadLink": "Download now →",
+      "cancel": "Cancel"
+    }
+  },
+  "sobreMi": {
+    "hero": {
+      "eyebrow": "About",
+      "h1": "Agustín Quiroga",
+      "role": "Independent financial analyst"
+    },
+    "bio": {
+      "title": "Background",
+      "p1": "Finance background with experience in international banking and financial analysis. I have worked in analytically demanding environments where precision and clarity of information are non-negotiable.",
+      "p2": "I currently work in the finance department at GVC Gaesco, supporting reporting, financial planning, and reporting automation projects. This context directly informs Sarria Wealth's approach: analytical rigour applied to real situations.",
+      "p3": "Sarria Wealth was founded on the conviction that many individuals and businesses already hold the information needed to make better decisions — they simply lack the structure and judgement to interpret it."
+    },
+    "principles": {
+      "title": "Working principles",
+      "items": [
+        {
+          "title": "Rigour and structure",
+          "body": "Financial analysis without methodology produces noise. Every project follows a clear framework with information hierarchy and analytical judgement."
+        },
+        {
+          "title": "Discretion",
+          "body": "Financial information is sensitive. All work is conducted in strict confidence. Client data is never shared under any circumstances."
+        },
+        {
+          "title": "Independence",
+          "body": "No conflicts of interest. No products to sell. The analysis serves only the client."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Does it make sense to work together?",
+      "body": "Book a 15-minute introductory call.",
+      "btn": "Book a call"
+    }
+  },
+  "contacto": {
+    "hero": {
+      "eyebrow": "Contact",
+      "h1": "Book a call",
+      "body": "A 15-minute introductory conversation. I explain how I work and we see whether it makes sense to move forward. No commitment."
+    },
+    "whatToExpect": {
+      "title": "What happens on the call",
+      "items": [
+        "You briefly describe your situation",
+        "I explain what I could do and how",
+        "If it makes sense, we agree on next steps"
+      ]
+    },
+    "calendly": {
+      "title": "Select a time",
+      "btn": "Open calendar",
+      "note": "Opens Calendly in a new window."
+    },
+    "form": {
+      "title": "Tell me something first (optional)",
+      "q1Label": "Are you an individual or a business?",
+      "q1Options": ["Individual / freelancer", "Business (SME)", "Other"],
+      "q2Label": "What do you want to solve?",
+      "q2Placeholder": "Cash, margins, debt, general organisation…",
+      "q3Label": "Urgency level",
+      "q3Options": ["Exploring options", "Within the next 30 days", "Urgent"],
+      "submit": "Submit and book"
+    },
+    "email": {
+      "label": "Or write to me directly",
+      "value": "contacto@sarriawealth.com"
+    }
+  },
+  "insights": {
+    "hero": {
+      "eyebrow": "Insights",
+      "h1": "Coming soon",
+      "body": "Analysis, guides, and notes on finance for individuals and businesses. In preparation.",
+      "cta": "Back to home"
+    }
+  }
+}
